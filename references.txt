@@ -1,1 +1,0 @@
-0.0.0.0/0 is the IPv4 default route: it matches any IPv4 destination that doesn’t have a more specific route.
