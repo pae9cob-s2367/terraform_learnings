@@ -1,0 +1,4 @@
+aws_region        = "us-east-1"
+vpc_id            = "vpc-REPLACE_WITH_VPC_ID"
+private_subnet_id = "subnet-REPLACE_WITH_PRIVATE_1_ID"
+instance_type     = "t3.micro"
