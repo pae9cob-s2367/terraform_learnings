@@ -1,0 +1,5 @@
+aws_region            = "us-east-1"
+vpc_id                = "vpc-REPLACE_WITH_VPC_ID"
+private_subnet_ids    = ["subnet-REPLACE_WITH_PRIVATE_1_ID", "subnet-REPLACE_WITH_PRIVATE_2_ID"]
+ec2_security_group_id = "sg-REPLACE_WITH_EC2_SECURITY_GROUP_ID"
+instance_class        = "db.t3.micro"
